@@ -1,2 +1,5 @@
 /target/
 .settings/
+
+# Added by me
+*.doc*
